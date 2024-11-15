@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="add_a_new_to_do_item">Add a new to-do item</string>
+    <string name="enter_to_do_name">Enter to-do name</string>
+    <string name="enter_due_date">Enter due date</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+</resources>
